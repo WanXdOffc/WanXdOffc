@@ -24,43 +24,54 @@
 
 ---
 
-## 🧩 Skill Progress
+## 🧠 Skill Progress
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td><b>JavaScript</b></td>
+    <td width="140"><b>JavaScript</b></td>
     <td>
-      <img src="https://progress-bar.dev/30/?title=30%25&width=200&color=00c853" />
+      <progress value="30" max="100" style="width: 100%;"></progress>
+      <sub>30%</sub>
     </td>
   </tr>
+
   <tr>
     <td><b>Node.js</b></td>
     <td>
-      <img src="https://progress-bar.dev/25/?title=25%25&width=200&color=00c853" />
+      <progress value="25" max="100" style="width: 100%;"></progress>
+      <sub>25%</sub>
     </td>
   </tr>
+
   <tr>
     <td><b>Express.js</b></td>
     <td>
-      <img src="https://progress-bar.dev/22/?title=22%25&width=200&color=00c853" />
+      <progress value="22" max="100" style="width: 100%;"></progress>
+      <sub>22%</sub>
     </td>
   </tr>
+
   <tr>
     <td><b>REST API</b></td>
     <td>
-      <img src="https://progress-bar.dev/28/?title=28%25&width=200&color=00c853" />
+      <progress value="28" max="100" style="width: 100%;"></progress>
+      <sub>28%</sub>
     </td>
   </tr>
+
   <tr>
     <td><b>AI Integration</b></td>
     <td>
-      <img src="https://progress-bar.dev/20/?title=20%25&width=200&color=00c853" />
+      <progress value="20" max="100" style="width: 100%;"></progress>
+      <sub>20%</sub>
     </td>
   </tr>
+
   <tr>
     <td><b>Discord Bot</b></td>
     <td>
-      <img src="https://progress-bar.dev/27/?title=27%25&width=200&color=00c853" />
+      <progress value="27" max="100" style="width: 100%;"></progress>
+      <sub>27%</sub>
     </td>
   </tr>
 </table>
