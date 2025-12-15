@@ -7,6 +7,14 @@
 
 ---
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/WanXdOffc/WanXdOffc/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🧠 About Me
 ⚙️ Backend & REST API enthusiast  
 🤖 AI Engineer (Early Stage)  
