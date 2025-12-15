@@ -16,7 +16,7 @@
 
 ---
 
-## 🌀 Skill Progress (Anime Style)
+## 🌀 Skill Progress
 
 <p align="center">
 
@@ -117,7 +117,7 @@
 <p align="center">
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@darmawan.ofc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@USERNAME_TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TikTok-@darmawan.ofc-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 
   <!-- Discord Server -->
