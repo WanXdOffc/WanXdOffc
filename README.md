@@ -21,87 +21,61 @@
 🎮 Discord Bot Developer  
 📚 Currently mastering **JavaScript (30%)**  
 🌱 Learning step by step, focusing on fundamentals & real projects
-
 ---
 
-## 🌀 Skill Progress
+## 🌀 Skill Progress (Anime Circle)
 
 <p align="center">
 
-<!-- JavaScript 30% -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#2c2c2c" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#f7df1e"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="220"
-    stroke-linecap="round"
-    transform="rotate(-90 60 60)"/>
-  <text x="60" y="60" text-anchor="middle" dy="8" font-size="18" fill="#f7df1e">30%</text>
-  <text x="60" y="95" text-anchor="middle" font-size="10" fill="#aaa">JavaScript</text>
-</svg>
+<img width="120" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
+<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
+<circle cx='60' cy='60' r='50' stroke='%23f7df1e' stroke-width='10' fill='none'
+stroke-dasharray='314' stroke-dashoffset='220'
+transform='rotate(-90 60 60)' stroke-linecap='round'/>
+<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23f7df1e'>30%</text>
+</svg>" />
+<br><sub>JavaScript</sub>
 
-<!-- Node.js 25% -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#2c2c2c" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#3c873a"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="235"
-    stroke-linecap="round"
-    transform="rotate(-90 60 60)"/>
-  <text x="60" y="60" text-anchor="middle" dy="8" font-size="18" fill="#3c873a">25%</text>
-  <text x="60" y="95" text-anchor="middle" font-size="10" fill="#aaa">Node.js</text>
-</svg>
+<img width="120" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
+<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
+<circle cx='60' cy='60' r='50' stroke='%233c873a' stroke-width='10' fill='none'
+stroke-dasharray='314' stroke-dashoffset='235'
+transform='rotate(-90 60 60)' stroke-linecap='round'/>
+<text x='60' y='65' text-anchor='middle' font-size='18' fill='%233c873a'>25%</text>
+</svg>" />
+<br><sub>Node.js</sub>
 
-<!-- Express.js 22% -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#2c2c2c" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#ffffff"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="245"
-    stroke-linecap="round"
-    transform="rotate(-90 60 60)"/>
-  <text x="60" y="60" text-anchor="middle" dy="8" font-size="18" fill="#ffffff">22%</text>
-  <text x="60" y="95" text-anchor="middle" font-size="10" fill="#aaa">Express</text>
-</svg>
+<img width="120" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
+<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
+<circle cx='60' cy='60' r='50' stroke='%23ffffff' stroke-width='10' fill='none'
+stroke-dasharray='314' stroke-dashoffset='245'
+transform='rotate(-90 60 60)' stroke-linecap='round'/>
+<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23ffffff'>22%</text>
+</svg>" />
+<br><sub>Express</sub>
 
-<!-- REST API 28% -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#2c2c2c" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#ff4d4d"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="226"
-    stroke-linecap="round"
-    transform="rotate(-90 60 60)"/>
-  <text x="60" y="60" text-anchor="middle" dy="8" font-size="18" fill="#ff4d4d">28%</text>
-  <text x="60" y="95" text-anchor="middle" font-size="10" fill="#aaa">REST API</text>
-</svg>
+<img width="120" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
+<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
+<circle cx='60' cy='60' r='50' stroke='%23ff4d4d' stroke-width='10' fill='none'
+stroke-dasharray='314' stroke-dashoffset='226'
+transform='rotate(-90 60 60)' stroke-linecap='round'/>
+<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23ff4d4d'>28%</text>
+</svg>" />
+<br><sub>REST API</sub>
 
-<!-- AI Integration 20% -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#2c2c2c" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50"
-    stroke="#9b59b6"
-    stroke-width="10"
-    fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="252"
-    stroke-linecap="round"
-    transform="rotate(-90 60 60)"/>
-  <text x="60" y="60" text-anchor="middle" dy="8" font-size="18" fill="#9b59b6">20%</text>
-  <text x="60" y="95" text-anchor="middle" font-size="10" fill="#aaa">AI</text>
-</svg>
+<img width="120" src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
+<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
+<circle cx='60' cy='60' r='50' stroke='%239b59b6' stroke-width='10' fill='none'
+stroke-dasharray='314' stroke-dashoffset='252'
+transform='rotate(-90 60 60)' stroke-linecap='round'/>
+<text x='60' y='65' text-anchor='middle' font-size='18' fill='%239b59b6'>20%</text>
+</svg>" />
+<br><sub>AI</sub>
 
 </p>
 
