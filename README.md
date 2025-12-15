@@ -2,7 +2,7 @@
 <h3 align="center">Backend & API Specialist • AI Engineer • Discord Bot Developer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5a/35/8d/5a358d0b4a1db7c7e6c1e9b07fcb0c7c.gif" width="420"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0YmR3ZTh6cWVld3ZtdThnenR5Nzl5am1hY2RrbWt1bmF4dzF3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58pz2Z0LJSVLzobf5P/giphy.gif" width="420"/>
 </p>
 
 ---
