@@ -24,62 +24,9 @@
 
 ---
 
-## 🧠 Skill Progress
-
-<table width="100%">
-  <tr>
-    <td width="140"><b>JavaScript</b></td>
-    <td>
-      <progress value="30" max="100" style="width: 100%;"></progress>
-      <sub>30%</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Node.js</b></td>
-    <td>
-      <progress value="25" max="100" style="width: 100%;"></progress>
-      <sub>25%</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Express.js</b></td>
-    <td>
-      <progress value="22" max="100" style="width: 100%;"></progress>
-      <sub>22%</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>REST API</b></td>
-    <td>
-      <progress value="28" max="100" style="width: 100%;"></progress>
-      <sub>28%</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>AI Integration</b></td>
-    <td>
-      <progress value="20" max="100" style="width: 100%;"></progress>
-      <sub>20%</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Discord Bot</b></td>
-    <td>
-      <progress value="27" max="100" style="width: 100%;"></progress>
-      <sub>27%</sub>
-    </td>
-  </tr>
-</table>
-
-
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,ejs" />
 </p>
 
 ---
