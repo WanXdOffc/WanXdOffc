@@ -10,7 +10,7 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/WanXdOffc/WanXdOffc/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/WanXdOffc/WanXdOffc/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
