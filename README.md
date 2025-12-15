@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Iketut Dharmawan 🌌</h1>
+<h1 align="center">Iketut Dharmawan</h1>
 <h3 align="center">Backend & API Specialist • AI Engineer • Discord Bot Developer</h3>
 
 <p align="center">
@@ -21,65 +21,50 @@
 🎮 Discord Bot Developer  
 📚 Currently mastering **JavaScript (30%)**  
 🌱 Learning step by step, focusing on fundamentals & real projects
----
-
-## 🌀 Skill Progress (Anime Circle)
-
-<p align="center">
-
-<img width="120" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
-<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
-<circle cx='60' cy='60' r='50' stroke='%23f7df1e' stroke-width='10' fill='none'
-stroke-dasharray='314' stroke-dashoffset='220'
-transform='rotate(-90 60 60)' stroke-linecap='round'/>
-<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23f7df1e'>30%</text>
-</svg>" />
-<br><sub>JavaScript</sub>
-
-<img width="120" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
-<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
-<circle cx='60' cy='60' r='50' stroke='%233c873a' stroke-width='10' fill='none'
-stroke-dasharray='314' stroke-dashoffset='235'
-transform='rotate(-90 60 60)' stroke-linecap='round'/>
-<text x='60' y='65' text-anchor='middle' font-size='18' fill='%233c873a'>25%</text>
-</svg>" />
-<br><sub>Node.js</sub>
-
-<img width="120" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
-<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
-<circle cx='60' cy='60' r='50' stroke='%23ffffff' stroke-width='10' fill='none'
-stroke-dasharray='314' stroke-dashoffset='245'
-transform='rotate(-90 60 60)' stroke-linecap='round'/>
-<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23ffffff'>22%</text>
-</svg>" />
-<br><sub>Express</sub>
-
-<img width="120" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
-<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
-<circle cx='60' cy='60' r='50' stroke='%23ff4d4d' stroke-width='10' fill='none'
-stroke-dasharray='314' stroke-dashoffset='226'
-transform='rotate(-90 60 60)' stroke-linecap='round'/>
-<text x='60' y='65' text-anchor='middle' font-size='18' fill='%23ff4d4d'>28%</text>
-</svg>" />
-<br><sub>REST API</sub>
-
-<img width="120" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>
-<circle cx='60' cy='60' r='50' stroke='%232c2c2c' stroke-width='10' fill='none'/>
-<circle cx='60' cy='60' r='50' stroke='%239b59b6' stroke-width='10' fill='none'
-stroke-dasharray='314' stroke-dashoffset='252'
-transform='rotate(-90 60 60)' stroke-linecap='round'/>
-<text x='60' y='65' text-anchor='middle' font-size='18' fill='%239b59b6'>20%</text>
-</svg>" />
-<br><sub>AI</sub>
-
-</p>
 
 ---
+
+## 🧩 Skill Progress
+
+<table align="center">
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td>
+      <img src="https://progress-bar.dev/30/?title=30%25&width=200&color=00c853" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Node.js</b></td>
+    <td>
+      <img src="https://progress-bar.dev/25/?title=25%25&width=200&color=00c853" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Express.js</b></td>
+    <td>
+      <img src="https://progress-bar.dev/22/?title=22%25&width=200&color=00c853" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>REST API</b></td>
+    <td>
+      <img src="https://progress-bar.dev/28/?title=28%25&width=200&color=00c853" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Integration</b></td>
+    <td>
+      <img src="https://progress-bar.dev/20/?title=20%25&width=200&color=00c853" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Discord Bot</b></td>
+    <td>
+      <img src="https://progress-bar.dev/27/?title=27%25&width=200&color=00c853" />
+    </td>
+  </tr>
+</table>
+
 
 ## ⚙️ Tech Stack
 <p align="center">
